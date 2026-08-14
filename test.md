@@ -6,4 +6,4 @@ Override the default branch name for new repositories → main
 
 git init
 
-建立的 repo 也會直接是 main，比較不容易遇到本機叫 master、GitHub 叫 main，然後還要額外改名的情況。
+建立的 repo 也會直接是 main，比較不容易遇到本地裝置叫 master、GitHub 叫 main，然後還要額外改名的情況。
