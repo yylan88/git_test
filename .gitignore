@@ -1,0 +1,18 @@
+# 忽略指定檔案
+secret.txt
+
+# 忽略指定資料夾
+.venv/
+
+# 忽略所有 .log
+*.log
+
+# 忽略所有 .jpg
+*.jpg
+
+
+# 忽略 Python cache
+__pycache__/
+
+# 忽略環境變數檔
+.env
